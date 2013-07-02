@@ -2,6 +2,7 @@ node_template
 =============
 
 This is based on : https://github.com/robrighter/node-boilerplate with some modifications and including Twitter Bootstrap.
+Tested on NodeJS v.0.10.12
 
 Dependencies:
 - Connect v2.8.1

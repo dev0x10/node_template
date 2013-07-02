@@ -17,5 +17,5 @@
     "assert": "0.4.9",
     "expect": "0.0.2"
   },
-  "engine": "node >= 0.9.6"
+  "engine": "node >= 0.10.12"
 }
