@@ -4,8 +4,8 @@
   "author": "YOUR NAME <your@emailaddress.com>",
   "version": "0.0.1",
   "dependencies": {
-    "connect": "2.8.1",
-    "express": "3.3.1",
+    "connect": "2.8.4",
+    "express": "3.3.4",
     "ejs": "0.8.4",
     "socket.io": "0.9.16"
   },
